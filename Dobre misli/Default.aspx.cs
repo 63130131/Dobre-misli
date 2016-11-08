@@ -16,7 +16,7 @@ namespace Dobre_misli
 
         protected void dodajMisel_Click(object sender, EventArgs e)
         {
-                    
+            ListBox1.Items.Insert(0, misel.Text);        
         }
     }
     

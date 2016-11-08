@@ -43,6 +43,7 @@
             </tr>
         </table>
     </div>
+        <asp:ListBox ID="ListBox1" runat="server" Height="118px" Width="252px"></asp:ListBox>
     </form>
 </body>
 </html>
